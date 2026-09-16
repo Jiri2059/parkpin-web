@@ -8,7 +8,7 @@ import { useEffect } from 'react';
 import PrivacyPolicy from './components/PrivacyPolicy';
 import TermsOfService from './components/TermsOfService';
 import CookiePolicy from './components/CookiePolicy';
-
+// x
 function ScrollToSection() {
   const location = useLocation();
 
